@@ -1,2 +1,2 @@
 # Set Notification Using WorkManager
-Schedule Notification using Work Manage
+just a simple app to Schedule Notification using Work Manage 
